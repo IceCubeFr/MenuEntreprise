@@ -1,3 +1,4 @@
+![Bannière de MenuEntreprise](https://media.discordapp.net/attachments/1154659162005983255/1185355838534209546/Menu_entreprise.png?ex=658f4fa6&is=657cdaa6&hm=1b58924efda75a4ac096234be1f2037344e2b2332c79cd713df50aed9e6c9c2b&=&format=webp&quality=lossless&width=1342&height=671)
 # ✧ MenuEntreprise
 Votre plugin de gestion d'entreprise
 
